@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '9910'
     url: http://www.gutenberg.org/2009/agents/9910
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21417#Forty-Six-Years-in-the-Army
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2007-05-11'
 gutenberg_type: Text
