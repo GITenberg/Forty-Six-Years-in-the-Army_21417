@@ -1,0 +1,33 @@
+_repo: Forty-Six-Years-in-the-Army_21417
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schofield, John McAllister
+    alias: Schofield, J. M. (John McAllister)
+    birthdate: 1831
+    deathdate: 1906
+    gutenberg_agent_id: '9910'
+    url: http://www.gutenberg.org/2009/agents/9910
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2007-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21417'
+  lccn: '04017063'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Biography'
+- !lcsh 'United States -- History, Military -- To 1900'
+- !lcsh 'Generals -- United States -- Biography'
+- !lcsh 'United States. Army -- Biography'
+- !lcc 'E151'
+title: Forty-Six Years in the Army
+url: http://www.gutenberg.org/ebooks/21417
